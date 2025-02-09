@@ -1,4 +1,5 @@
 #include <vector>
+#include <iostream>
 
 
 void part1() {
@@ -7,6 +8,7 @@ void part1() {
 
 void part2() {
     //TODO: Implement part 2
+    std::cout << "Testing Github" << std::endl;
 }
 
 int main() {
